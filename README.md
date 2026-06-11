@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Saniya Farooqui
 
-<!--
-**saniya-farooqui/saniya-farooqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Skills:
+• SQL
+• Python
+• Excel
+• Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+• Smart Event Attendance & Mood Tracker
+• Data Analytics Projects
+
+📫 Contact:
+saniyafarooqui000@gmail.com
++91 9335787516
